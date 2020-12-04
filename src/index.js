@@ -1,4 +1,4 @@
-const movies = require(".data/movies.json");
+const movies = require("./data/movies.json");
 import fetchWithTimeout from "services.js";
 
 
