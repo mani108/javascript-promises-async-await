@@ -11,3 +11,4 @@ const getBooksAndMovies = () => {
 
 const getBooksAndMoviesPromise = getBooksAndMovies();
 getBooksAndMoviesPromise.then(results => {console.log('getBooksAndMoviesPromise', results);});
+
