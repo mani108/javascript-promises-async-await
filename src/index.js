@@ -7,3 +7,5 @@ export function fetchMovies(){
 }
 
 const moviePromise = fetchMovies();
+moviePromise()
+    .then(() => {console.log(results)});
