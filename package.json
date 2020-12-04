@@ -44,5 +44,16 @@
   },
   "dependencies": {
     "lodash": "^4.17.15"
-  }
+  },
+  "directories": {
+    "test": "tests"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mani108/javascript-promises-async-await.git"
+  },
+  "bugs": {
+    "url": "https://github.com/mani108/javascript-promises-async-await/issues"
+  },
+  "homepage": "https://github.com/mani108/javascript-promises-async-await#readme"
 }
